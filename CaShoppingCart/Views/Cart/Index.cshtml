@@ -1,0 +1,78 @@
+﻿@model IEnumerable<CaShoppingCart.Models.Extended.CartVM>
+
+@{
+    ViewBag.Title = "Cart-Details";
+    //int count = 1;
+    if (Session["UserId"] == null)
+    {
+        Response.Redirect("~/home/login");
+    }
+}
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.1/css/all.css" rel="stylesheet"/>
+<h2>Cart Details</h2>
+
+@if (ViewBag.Message != null)
+{
+    <h3>@ViewBag.Message</h3>
+    <a href="/Purchase/Index">Go to the Purchase</a>
+}
+else
+{
+    <table class="table">
+        <tr>
+            <th> Image</th>
+            <th> Product Name</th>
+            <th> Quantity</th>
+            <th> Price</th>
+            <th>     </th>
+            <th> Total</th>
+            <th></th>
+        </tr>
+        @foreach (var items in Model)
+        {
+        <tr>
+            <td><img src="@items.Image" style="height:100px"/></td>
+            <td>@items.ProductName</td>
+            <td class="qty@(items.ProductId)">
+                @items.Quantity
+            </td>
+                <td>
+                    @items.Price
+                </td>
+            <td>
+                <a href="#" class="incrproduct" data-id="@items.ProductId"><i class="fa fa-plus-square"></i></a>
+                <a class="qty@(items.ProductId)">
+                    @items.Quantity
+                </a>
+                <a href="#" class="decrproduct" data-id="@items.ProductId"><i class="fa fa-minus-square"></i></a>
+
+                <a href="#" class="removeproduct 
+                       " data-id="@items.ProductId"><i class="fa fa-times-circle" style="color: red;"></i></a>
+            </td>
+            <td class="total@(items.ProductId)">
+                @items.Total
+            </td>
+            <td></td>
+        </tr>
+        }
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td class="grandtotal"><b>Grand Total:</b>$<span>@ViewBag.GrandTotal</span></td>
+        </tr>
+    </table>
+
+    <a href="/product/index">Continue Shopping</a>
+   
+    <br />
+    <a href="#" class="placeorder btn btn-primary pull-right" >Checkout</a>
+
+}
+@section scripts
+{
+    <script src="~/Scripts/AjaxCart.js"></script> 
+}

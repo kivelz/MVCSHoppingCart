@@ -1,0 +1,420 @@
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\CaShoppingCart.dll.config
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\CaShoppingCart.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\CaShoppingCart.pdb
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\csc.exe
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\csc.exe.config
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\csc.rsp
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\csi.exe
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\csi.exe.config
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\csi.rsp
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.AppContext.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Collections.Immutable.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Console.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.IO.Compression.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.IO.FileSystem.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.IO.Pipes.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Reflection.Metadata.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.AccessControl.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.Claims.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.ValueTuple.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Xml.XPath.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\vbc.exe
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\vbc.exe.config
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\vbc.rsp
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\VBCSCompiler.exe
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\VBCSCompiler.exe.config
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\Antlr3.Runtime.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\EntityFramework.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\EntityFramework.SqlServer.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\Microsoft.Web.Infrastructure.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\Newtonsoft.Json.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.Helpers.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.Mvc.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.Optimization.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.Razor.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.WebPages.Deployment.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.WebPages.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.WebPages.Razor.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\WebGrease.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\EntityFramework.xml
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\EntityFramework.SqlServer.xml
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.Helpers.xml
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.Mvc.xml
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.Optimization.xml
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.Razor.xml
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.WebPages.xml
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.WebPages.Deployment.xml
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.WebPages.Razor.xml
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\Newtonsoft.Json.xml
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\Antlr3.Runtime.pdb
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Team13App\CaShoppingCart\CaShoppingCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Team13App\CaShoppingCart\CaShoppingCart\obj\Debug\CaShoppingCart.csprojAssemblyReference.cache
+D:\Team13App\CaShoppingCart\CaShoppingCart\obj\Debug\CaShoppingCart.csproj.CoreCompileInputs.cache
+D:\Team13App\CaShoppingCart\CaShoppingCart\obj\Debug\CaShoppingCart.csproj.CopyComplete
+D:\Team13App\CaShoppingCart\CaShoppingCart\obj\Debug\CaShoppingCart.dll
+D:\Team13App\CaShoppingCart\CaShoppingCart\obj\Debug\CaShoppingCart.pdb
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\obj\Debug\CaShoppingCart.csprojAssemblyReference.cache
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\obj\Debug\CaShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\obj\Debug\CaShoppingCart.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\obj\Debug\CaShoppingCart.pdb
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\CaShoppingCart.dll.config
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\CaShoppingCart.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\CaShoppingCart.pdb
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\csc.exe
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\csc.exe.config
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\csc.rsp
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\csi.exe
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\csi.exe.config
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\csi.rsp
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.AppContext.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Console.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.IO.Compression.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.IO.Pipes.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.Claims.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.ValueTuple.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\vbc.exe
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\vbc.exe.config
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\vbc.rsp
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\VBCSCompiler.exe
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\Antlr3.Runtime.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\EntityFramework.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\EntityFramework.SqlServer.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\Newtonsoft.Json.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.Helpers.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.Mvc.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.Optimization.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.Razor.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.WebPages.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.WebPages.Razor.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\WebGrease.dll
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\EntityFramework.xml
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\EntityFramework.SqlServer.xml
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.Helpers.xml
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.Mvc.xml
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.Optimization.xml
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.Razor.xml
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.WebPages.xml
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.WebPages.Razor.xml
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\Newtonsoft.Json.xml
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\Antlr3.Runtime.pdb
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kivel\Desktop\Team13App\CaShoppingCart\CaShoppingCart\obj\Debug\CaShoppingCart.csproj.CopyComplete
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\CaShoppingCart.dll.config
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\CaShoppingCart.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\CaShoppingCart.pdb
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\csc.exe
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\csc.exe.config
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\csc.rsp
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\csi.exe
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\csi.exe.config
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\csi.rsp
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.AppContext.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Collections.Immutable.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Console.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.IO.Compression.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.IO.FileSystem.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.IO.Pipes.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Reflection.Metadata.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.AccessControl.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.Claims.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.ValueTuple.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Xml.XPath.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\vbc.exe
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\vbc.exe.config
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\vbc.rsp
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\VBCSCompiler.exe
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\VBCSCompiler.exe.config
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\Antlr3.Runtime.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\EntityFramework.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\EntityFramework.SqlServer.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\Microsoft.Web.Infrastructure.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\Newtonsoft.Json.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.Helpers.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.Mvc.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.Optimization.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.Razor.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.WebPages.Deployment.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.WebPages.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.WebPages.Razor.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\WebGrease.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\EntityFramework.xml
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\EntityFramework.SqlServer.xml
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.Helpers.xml
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.Mvc.xml
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.Optimization.xml
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.Razor.xml
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.WebPages.xml
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.WebPages.Deployment.xml
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.WebPages.Razor.xml
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\Newtonsoft.Json.xml
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\Antlr3.Runtime.pdb
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\obj\Debug\CaShoppingCart.csprojAssemblyReference.cache
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\obj\Debug\CaShoppingCart.csproj.CoreCompileInputs.cache
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\obj\Debug\CaShoppingCart.csproj.CopyComplete
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\obj\Debug\CaShoppingCart.dll
+D:\Final\Final2\Team13App\CaShoppingCart\CaShoppingCart\obj\Debug\CaShoppingCart.pdb
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\CaShoppingCart.dll.config
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\CaShoppingCart.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\CaShoppingCart.pdb
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\csc.exe
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\csc.exe.config
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\csc.rsp
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\csi.exe
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\csi.exe.config
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\csi.rsp
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.AppContext.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Collections.Immutable.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Console.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.IO.Compression.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.IO.FileSystem.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.IO.Pipes.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Reflection.Metadata.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.AccessControl.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.Claims.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.ValueTuple.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Xml.XPath.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\vbc.exe
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\vbc.exe.config
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\vbc.rsp
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\VBCSCompiler.exe
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\roslyn\VBCSCompiler.exe.config
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\Antlr3.Runtime.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\EntityFramework.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\EntityFramework.SqlServer.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\Microsoft.Web.Infrastructure.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\Newtonsoft.Json.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.Helpers.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.Mvc.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.Optimization.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.Razor.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.WebPages.Deployment.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.WebPages.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.WebPages.Razor.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\WebGrease.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\EntityFramework.xml
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\EntityFramework.SqlServer.xml
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.Helpers.xml
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.Mvc.xml
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.Optimization.xml
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.Razor.xml
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.WebPages.xml
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.WebPages.Deployment.xml
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Web.WebPages.Razor.xml
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\Newtonsoft.Json.xml
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\Antlr3.Runtime.pdb
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Team13App\CaShoppingCart\CaShoppingCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Team13App\CaShoppingCart\CaShoppingCart\obj\Debug\CaShoppingCart.csprojAssemblyReference.cache
+C:\Team13App\CaShoppingCart\CaShoppingCart\obj\Debug\CaShoppingCart.csproj.CoreCompileInputs.cache
+C:\Team13App\CaShoppingCart\CaShoppingCart\obj\Debug\CaShoppingCart.csproj.CopyComplete
+C:\Team13App\CaShoppingCart\CaShoppingCart\obj\Debug\CaShoppingCart.dll
+C:\Team13App\CaShoppingCart\CaShoppingCart\obj\Debug\CaShoppingCart.pdb
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\CaShoppingCart.dll.config
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\CaShoppingCart.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\CaShoppingCart.pdb
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\csc.exe
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\csc.exe.config
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\csc.rsp
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\csi.exe
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\csi.exe.config
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\csi.rsp
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\System.AppContext.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Console.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\System.IO.Compression.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\System.IO.Pipes.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.Claims.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\System.ValueTuple.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\vbc.exe
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\vbc.exe.config
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\vbc.rsp
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\VBCSCompiler.exe
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\Antlr3.Runtime.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\EntityFramework.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\EntityFramework.SqlServer.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\Newtonsoft.Json.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\System.Web.Helpers.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\System.Web.Mvc.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\System.Web.Optimization.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\System.Web.Razor.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\System.Web.WebPages.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\System.Web.WebPages.Razor.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\WebGrease.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\EntityFramework.xml
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\EntityFramework.SqlServer.xml
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\System.Web.Helpers.xml
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\System.Web.Mvc.xml
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\System.Web.Optimization.xml
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\System.Web.Razor.xml
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\System.Web.WebPages.xml
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\System.Web.WebPages.Razor.xml
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\Newtonsoft.Json.xml
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\Antlr3.Runtime.pdb
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\obj\Debug\CaShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\obj\Debug\CaShoppingCart.csproj.CopyComplete
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\obj\Debug\CaShoppingCart.dll
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\obj\Debug\CaShoppingCart.pdb
+C:\Users\kivel\Desktop\New folder (2)\CaShoppingCart\CaShoppingCart\obj\Debug\CaShoppingCart.csprojAssemblyReference.cache

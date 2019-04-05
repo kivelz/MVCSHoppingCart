@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Team13b</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+  
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+               
+                <a class="navbar-brand" href="/product/index">Team13B</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Products", "Index", "Product")</li>
+                    <li>@Html.ActionLink("Cart", "Index", "Cart")</li>
+                    <li>@Html.ActionLink("Purchase History", "Index", "Purchase")</li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right" style="padding-right: 10px;">
+                    <li>
+                        @if (Session["UserId"] != null)
+                        {
+                            @Html.Action("HelloPartial", "Home")
+                        }
+                    </li>
+                    <li>
+                        @if (Session["UserId"] != null && ViewBag.Title != "Cart-Details" && ViewBag.Title != "Purchase")
+                        {
+                            @Html.Action("CartPartial", "Cart")
+                        }
+                    </li>
+                    <li>
+                        @if (Session["UserId"] != null)
+                        {
+                            <a href="/Home/LogOut">Logout</a>
+                        }
+                    </li>
+                </ul>
+            </div><!-- /.navbar-collapse -->
+       <!-- /.container-fluid -->
+    </nav>
+
+<div class="container body-content">
+    @RenderBody()
+</div>
+
+@Scripts.Render("~/bundles/jquery")
+@Scripts.Render("~/bundles/bootstrap")
+@Scripts.Render("~/content/css")
+@RenderSection("scripts", required: false)
+</body>
+</html>

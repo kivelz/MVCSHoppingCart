@@ -1,0 +1,106 @@
+﻿@using CaShoppingCart.Models
+@model IEnumerable<CaShoppingCart.Models.Product>
+
+@{
+    ViewBag.Title = "Gallery";
+    if (Session["UserId"] == null)
+    {
+        Response.Redirect("~/home/login");
+    }
+
+    var products = (List<Product>)ViewData["Products"];
+}
+<span class="ajaxmsg">Item has been added to cart</span>
+<style>
+    .jumbotron {
+        background-image: url('https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1602&q=80');
+        background-repeat: no-repeat;
+        -moz-background-size: cover;
+        background-position: center;
+        height: 300px;
+    }
+    span.ajaxmsg {
+        background: green;
+        color: white;
+        display: none;
+        position: relative;
+        top: 10%;
+        left: 50%;
+        height: 50px;
+        width: 300px;
+        text-align: center;
+        border-radius: 10px;
+        transform: translate(-10%, -50%);
+        bottom: 0;
+    }
+   
+
+</style>
+<span class="ajaxmsg">Product has been added to cart</span>
+@using (Html.BeginForm("Index", "Product"))
+{
+         <form action="POST">
+             <input type="search" name="search" placeholder="Search products" style="width: 500px; border-radius: 20px; margin-top: 50px; padding: 5px 5px;"/>
+        </form> 
+}
+
+         <div class="container" style="margin-top: 50px;">
+            
+             <div class="jumbotron">
+                 <h1 style="text-align: center; color: #fff0f5">Team13B ISS Shopping Cart</h1>
+             </div>
+
+             <div class="row well">
+                 @foreach (var product in products)
+                 {
+                     <div class="col-md-3">
+                         <div class="card" style="width: 20rem; height: 40rem;">
+                             <img class="card-img-top img-responsive" src="@product.ProductImage" style="height: 200px; width: 100%;">
+                             <div class="card-body">
+                                 <h5 class="card-title">@product.ProductName</h5>
+                                 <p class="card-text">@product.ProductDesc.Substring(0, 50)</p>
+                                 <p class="card-text">$@product.Price</p>
+                             </div>
+                             <div class="card-body addtocart">
+                                 <a onclick="return addToCart({ id: @product.ProductId });" class="btn btn-primary">Add to Cart</a>
+                             </div>
+                         </div>
+                     </div>
+                 }
+             </div>
+
+         </div>
+<style>
+    span.ajaxmsg {
+        background: green;
+        color: white;
+        padding: 10px;
+        display: none;
+        position: absolute;
+        bottom: 0;
+    }
+    .ib {
+        display: inline-block !important;
+    }
+    a.ajaxcart {
+        display: none;
+    }
+</style>
+
+<script>
+    function addToCart(product) {
+        var url = "/cart/AddToCartPartial";
+        $.get(url, { id: product.id }, function (data) {
+            $(".ajaxcart").html(data);
+        }).done(function () {
+            $("span.ajaxmsg").addClass("ib");
+            setTimeout(function () { 
+                $("span.ajaxmsg").fadeOut("fast");
+                $("span.ajaxmsg").removeClass("ib");
+            }, 1000);
+        });
+    }
+</script>
+
+
+

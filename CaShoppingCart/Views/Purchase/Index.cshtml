@@ -1,0 +1,67 @@
+﻿@model IEnumerable<CaShoppingCart.Models.Extended.PurchaseVM>
+@*@using CaShoppingCart.Models.Extended;*@
+
+@{
+    ViewBag.Title = "Purchase";
+    if (Session["UserId"] == null)
+    {
+        Response.Redirect("~/home/login");
+    }
+}
+
+<h2>Purchase</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductImage)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DownloadLink)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PurchaseDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Quantity)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ActivationCode)
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            <img src="@item.ProductImage" style="height:50px" />
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProductName)
+        </td>
+        <td>
+            <a href="@item.DownloadLink">Download</a>
+            @*@Html.DisplayFor(modelItem => item.DownloadLink)*@
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PurchaseDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Quantity)
+        </td>
+        <td>
+            <select name="ActivationCode">
+                @foreach (var aa in item.ActivationCode)
+                {
+                    <option value="@aa">@aa</option>
+                }
+            </select>
+            @*@Html.DisplayFor(modelItem => item.ActivationCode)*@
+        </td>
+    </tr>
+}
+
+</table>
